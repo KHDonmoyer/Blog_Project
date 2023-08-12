@@ -1,2 +1,2 @@
 # GymDatabase
-Kyle's Branch of the project.
+To make a database where one can add, remove, and edit different gyms
